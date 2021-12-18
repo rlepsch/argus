@@ -1,0 +1,96 @@
+description,external_description,description_short,external_query_str,vhf_code_id
+Brent month 1 1-minute aggregated close,Crude Oil Brent,Brent M1 1-min close,CLOSE,45678
+Brent month 1 1-minute aggregated high,Crude Oil Brent,Brent M1 1-min high,HIGH,45679
+Brent month 1 1-minute aggregated low,Crude Oil Brent,Brent M1 1-min low,LOW,45680
+Brent month 1 1-minute aggregated open,Crude Oil Brent,Brent M1 1-min open,OPEN,45681
+Brent month 1 1-minute aggregated volume,Crude Oil Brent,Brent M1 1-min volume,VOLUME,45682
+Brent month 2 1-minute aggregated close,Crude Oil Brent,Brent M2 1-min close,CLOSE,45683
+Brent month 2 1-minute aggregated high,Crude Oil Brent,Brent M2 1-min high,HIGH,45684
+Brent month 2 1-minute aggregated low,Crude Oil Brent,Brent M2 1-min low,LOW,45685
+Brent month 2 1-minute aggregated open,Crude Oil Brent,Brent M2 1-min open,OPEN,45686
+Brent month 2 1-minute aggregated volume,Crude Oil Brent,Brent M2 1-min volume,VOLUME,45687
+Brent month 3 1-minute aggregated close,Crude Oil Brent,Brent M3 1-min close,CLOSE,45688
+Brent month 3 1-minute aggregated high,Crude Oil Brent,Brent M3 1-min high,HIGH,45689
+Brent month 3 1-minute aggregated low,Crude Oil Brent,Brent M3 1-min low,LOW,45690
+Brent month 3 1-minute aggregated open,Crude Oil Brent,Brent M3 1-min open,OPEN,45691
+Brent month 3 1-minute aggregated volume,Crude Oil Brent,Brent M3 1-min volume,VOLUME,45692
+WTI month 1 1-minute aggregated close,Crude Oil WTI,WTI M1 1-min close,CLOSE,45693
+WTI month 1 1-minute aggregated high,Crude Oil WTI,WTI M1 1-min high,HIGH,45694
+WTI month 1 1-minute aggregated low,Crude Oil WTI,WTI M1 1-min low,LOW,45695
+WTI month 1 1-minute aggregated open,Crude Oil WTI,WTI M1 1-min open,OPEN,45696
+WTI month 1 1-minute aggregated volume,Crude Oil WTI,WTI M1 1-min volume,VOLUME,45697
+WTI month 2 1-minute aggregated close,Crude Oil WTI,WTI M2 1-min close,CLOSE,45698
+WTI month 2 1-minute aggregated high,Crude Oil WTI,WTI M2 1-min high,HIGH,45699
+WTI month 2 1-minute aggregated low,Crude Oil WTI,WTI M2 1-min low,LOW,45700
+WTI month 2 1-minute aggregated open,Crude Oil WTI,WTI M2 1-min open,OPEN,45701
+WTI month 2 1-minute aggregated volume,Crude Oil WTI,WTI M2 1-min volume,VOLUME,45702
+WTI month 3 1-minute aggregated close,Crude Oil WTI,WTI M3 1-min close,CLOSE,45703
+WTI month 3 1-minute aggregated high,Crude Oil WTI,WTI M3 1-min high,HIGH,45704
+WTI month 3 1-minute aggregated low,Crude Oil WTI,WTI M3 1-min low,LOW,45705
+WTI month 3 1-minute aggregated open,Crude Oil WTI,WTI M3 1-min open,OPEN,45706
+WTI month 3 1-minute aggregated volume,Crude Oil Brent,WTI M3 1-min volume,VOLUME,45707
+Heating oil month 1 1-minute aggregated close,ULSD NY Harbor,HO M1 1-min close,CLOSE,45708
+Heating oil month 1 1-minute aggregated high,ULSD NY Harbor,HO M1 1-min high,HIGH,45709
+Heating oil month 1 1-minute aggregated low,ULSD NY Harbor,HO M1 1-min low,LOW,45710
+Heating oil month 1 1-minute aggregated open,ULSD NY Harbor,HO M1 1-min open,OPEN,45711
+Heating oil month 1 1-minute aggregated volume,ULSD NY Harbor,HO M1 1-min volume,VOLUME,45712
+Heating oil month 2 1-minute aggregated close,ULSD NY Harbor,HO M2 1-min close,CLOSE,45713
+Heating oil month 2 1-minute aggregated high,ULSD NY Harbor,HO M2 1-min high,HIGH,45714
+Heating oil month 2 1-minute aggregated low,ULSD NY Harbor,HO M2 1-min low,LOW,45715
+Heating oil month 2 1-minute aggregated open,ULSD NY Harbor,HO M2 1-min open,OPEN,45716
+Heating oil month 2 1-minute aggregated volume,ULSD NY Harbor,HO M2 1-min volume,VOLUME,45717
+Heating oil month 3 1-minute aggregated close,ULSD NY Harbor,HO M3 1-min close,CLOSE,45718
+Heating oil month 3 1-minute aggregated high,ULSD NY Harbor,HO M3 1-min high,HIGH,45719
+Heating oil month 3 1-minute aggregated low,ULSD NY Harbor,HO M3 1-min low,LOW,45720
+Heating oil month 3 1-minute aggregated open,ULSD NY Harbor,HO M3 1-min open,OPEN,45721
+Heating oil month 3 1-minute aggregated volume,ULSD NY Harbor,HO M3 1-min volume,VOLUME,45722
+Gasoil month 1 1-minute aggregated close,Gas Oil LS,Gasoil M1 1-min close,CLOSE,45723
+Gasoil month 1 1-minute aggregated high,Gas Oil LS,Gasoil M1 1-min high,HIGH,45724
+Gasoil month 1 1-minute aggregated low,Gas Oil LS,Gasoil M1 1-min low,LOW,45725
+Gasoil month 1 1-minute aggregated open,Gas Oil LS,Gasoil M1 1-min open,OPEN,45726
+Gasoil month 1 1-minute aggregated volume,Gas Oil LS,Gasoil M1 1-min volume,VOLUME,45727
+Gasoil month 2 1-minute aggregated close,Gas Oil LS,Gasoil M2 1-min close,CLOSE,45728
+Gasoil month 2 1-minute aggregated high,Gas Oil LS,Gasoil M2 1-min high,HIGH,45729
+Gasoil month 2 1-minute aggregated low,Gas Oil LS,Gasoil M2 1-min low,LOW,45730
+Gasoil month 2 1-minute aggregated open,Gas Oil LS,Gasoil M2 1-min open,OPEN,45731
+Gasoil month 2 1-minute aggregated volume,Gas Oil LS,Gasoil M2 1-min volume,VOLUME,45732
+Gasoil month 3 1-minute aggregated close,Gas Oil LS,Gasoil M3 1-min close,CLOSE,45733
+Gasoil month 3 1-minute aggregated high,Gas Oil LS,Gasoil M3 1-min high,HIGH,45734
+Gasoil month 3 1-minute aggregated low,Gas Oil LS,Gasoil M3 1-min low,LOW,45735
+Gasoil month 3 1-minute aggregated open,Gas Oil LS,Gasoil M3 1-min open,OPEN,45736
+Gasoil month 3 1-minute aggregated volume,Gas Oil LS,Gasoil M3 1-min volume,VOLUME,45737
+RBOB month 1 1-minute aggregated close,Gasoline RBOB,RBOB M1 1-min close,CLOSE,45738
+RBOB month 1 1-minute aggregated high,Gasoline RBOB,RBOB M1 1-min high,HIGH,45739
+RBOB month 1 1-minute aggregated low,Gasoline RBOB,RBOB M1 1-min low,LOW,45740
+RBOB month 1 1-minute aggregated open,Gasoline RBOB,RBOB M1 1-min open,OPEN,45741
+RBOB month 1 1-minute aggregated volume,Gasoline RBOB,RBOB M1 1-min volume,VOLUME,45742
+RBOB month 2 1-minute aggregated close,Gasoline RBOB,RBOB M2 1-min close,CLOSE,45743
+RBOB month 2 1-minute aggregated high,Gasoline RBOB,RBOB M2 1-min high,HIGH,45744
+RBOB month 2 1-minute aggregated low,Gasoline RBOB,RBOB M2 1-min low,LOW,45745
+RBOB month 2 1-minute aggregated open,Gasoline RBOB,RBOB M2 1-min open,OPEN,45746
+RBOB month 2 1-minute aggregated volume,Gasoline RBOB,RBOB M2 1-min volume,VOLUME,45747
+RBOB month 3 1-minute aggregated close,Gasoline RBOB,RBOB M3 1-min close,CLOSE,45748
+RBOB month 3 1-minute aggregated high,Gasoline RBOB,RBOB M3 1-min high,HIGH,45749
+RBOB month 3 1-minute aggregated low,Gasoline RBOB,RBOB M3 1-min low,LOW,45750
+RBOB month 3 1-minute aggregated open,Gasoline RBOB,RBOB M3 1-min open,OPEN,45751
+RBOB month 3 1-minute aggregated volume,Gasoline RBOB,RBOB M3 1-min volume,VOLUME,45752
+Brent month 1:2 spread 1-minute aggregated close,Crude Oil Brent,Brent M1:2 1-min close,CLOSE,45805
+Brent month 1:2 spread 1-minute aggregated high,Crude Oil Brent,Brent M1:2 1-min high,HIGH,45806
+Brent month 1:2 spread 1-minute aggregated low,Crude Oil Brent,Brent M1:2 1-min low,LOW,45807
+Brent month 1:2 spread 1-minute aggregated open,Crude Oil Brent,Brent M1:2 1-min open,OPEN,45808
+Brent month 1:2 spread 1-minute aggregated volume,Crude Oil Brent,Brent M1:2 1-min volume,VOLUME,45809
+Brent month 2:3 spread 1-minute aggregated close,Crude Oil Brent,Brent M2:3 1-min close,CLOSE,45810
+Brent month 2:3 spread 1-minute aggregated high,Crude Oil Brent,Brent M2:3 1-min high,HIGH,45811
+Brent month 2:3 spread 1-minute aggregated low,Crude Oil Brent,Brent M2:3 1-min low,LOW,45812
+Brent month 2:3 spread 1-minute aggregated open,Crude Oil Brent,Brent M2:3 1-min open,OPEN,45813
+Brent month 2:3 spread 1-minute aggregated volume,Crude Oil Brent,Brent M2:3 1-min volume,VOLUME,45814
+WTI month 1:2 spread 1-minute aggregated close,Crude Oil WTI,WTI M1:2 1-min close,CLOSE,45820
+WTI month 1:2 spread 1-minute aggregated high,Crude Oil WTI,WTI M1:2 1-min high,HIGH,45821
+WTI month 1:2 spread 1-minute aggregated low,Crude Oil WTI,WTI M1:2 1-min low,LOW,45822
+WTI month 1:2 spread 1-minute aggregated open,Crude Oil WTI,WTI M1:2 1-min open,OPEN,45823
+WTI month 1:2 spread 1-minute aggregated volume,Crude Oil WTI,WTI M1:2 1-min volume,VOLUME,45824
+WTI month 2:3 spread 1-minute aggregated close,Crude Oil WTI,WTI M2:3 1-min close,CLOSE,45825
+WTI month 2:3 spread 1-minute aggregated high,Crude Oil WTI,WTI M2:3 1-min high,HIGH,45826
+WTI month 2:3 spread 1-minute aggregated low,Crude Oil WTI,WTI M2:3 1-min low,LOW,45827
+WTI month 2:3 spread 1-minute aggregated open,Crude Oil WTI,WTI M2:3 1-min open,OPEN,45828
+WTI month 2:3 spread 1-minute aggregated volume,Crude Oil WTI,WTI M2:3 1-min volume,VOLUME,45829
